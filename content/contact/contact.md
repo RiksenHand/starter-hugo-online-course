@@ -18,7 +18,6 @@ content:
           icon_pack: emoji
           name: Ring Inntaktskontoret
           link: 'tel:22 33 44 55'
-
   # Automatically link email and phone or display as text?
   autolink: true
 
