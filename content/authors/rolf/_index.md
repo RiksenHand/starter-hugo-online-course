@@ -1,31 +1,31 @@
 ---
 # Display name
-title: 吳恩達
+title: Rolf Riise
 
 # Username (this should match the folder name)
 authors:
-  - 吳恩達
+  - rolf
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position
-role: R Instructor
+role: El Capitan
 
 # Organizations/Affiliations
 organizations:
-  - name: Stanford University
+  - name: OUS
     url: ''
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: Like a boss.
 
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Barn
+  - Hånd og mikro
+  - Rygg
 
-education:
+Utdanning:
   courses:
     - course: PhD in Artificial Intelligence
       institution: Stanford University
@@ -47,10 +47,10 @@ social:
     link: 'mailto:test@example.org'
   - icon: twitter
     icon_pack: fab
-    link: https://twitter.com/GeorgeCushen
+    link: https://twitter.com/rolf
   - icon: github
     icon_pack: fab
-    link: https://github.com/gcushen
+    link: https://github.com/rolf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ''
