@@ -3,7 +3,7 @@ widget: hero
 headless: true
 weight: 10
 title: Rikshospitalet hånd og mikrokirurgi seksjon informasjon til pasienter
-hero_media: firehand.png
+hero_media: pngegg.png
 design:
   background:
     gradient_angle: 0
