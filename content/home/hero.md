@@ -2,8 +2,8 @@
 widget: hero
 headless: true
 weight: 10
-title: Online Course Template
-hero_media: teacher.png
+title: Rikshospitalet hånd og mikrokirurgi seksjon informasjon til pasienter
+hero_media: firehand.png
 design:
   background:
     gradient_angle: 0
@@ -12,7 +12,7 @@ design:
     text_color_light: false
 cta:
   url: '#courses'
-  label: Explore our courses
+  label: Finn ut mer
   icon_pack: fas
   icon: user-graduate
 cta_alt:
@@ -28,6 +28,5 @@ advanced:
 
 Published with the [Wowchemy Website Builder](https://wowchemy.com/) for Hugo.
 
-Introduce your courses here.
+Her kan du lese mer om diverse tilstander som henvises til vår seksjon, hvordan de kan behandles, og hva du som pasient kan forvente før og etter operasjonen.
 
-<a class="github-button" href="https://github.com/wowchemy/wowchemy-hugo-themes" data-icon="octicon-star" data-size="large" data-show-count="true" aria-label="Star Wowchemy Website Builder for Hugo">Star Wowchemy Website Builder for Hugo</a><br><a class="github-button" href="https://github.com/wowchemy/starter-hugo-online-course" data-icon="octicon-star" data-size="large" data-show-count="true" aria-label="Star the Online Course template">Star the Online Course template</a><script async defer src="https://buttons.github.io/buttons.js"></script>
