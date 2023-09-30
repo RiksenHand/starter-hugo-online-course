@@ -14,14 +14,11 @@ content:
   # Contact (edit or remove options as required)
   email: hand@riksen.no
   contact_links:
-        - icon: :office:
+        - icon: 🏢
           icon_pack: emoji
           name: Ring Inntaktskontoret
           link: 'tel:22 33 44 55'
-        - icon: :sleeping_bed:
-          icon_pack: emoji
-          name: Ring Sengeposten 
-          link: 'tel:12345678'
+
   # Automatically link email and phone or display as text?
   autolink: true
 
