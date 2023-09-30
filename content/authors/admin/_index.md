@@ -1,37 +1,32 @@
 ---
 # Display name
-title: Nelson Bighetti
+title: Patrick Garfjeld Roberts
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position
-role: Python Instructor
+role: Lege
 
 # Organizations/Affiliations
 organizations:
-  - name: Stanford University
+  - name: University of Oxford
     url: ''
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: Jeg liker dem alle, men jeg tror jeg må si at favorittfingeren min er pekeren.
 
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Pekefingere
+  - Bart voks
+  - No hugs
 
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
+    - course: DPhil
+      institution: University of Oxford
+      year: 2018
+
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
@@ -43,10 +38,10 @@ social:
     link: 'mailto:test@example.org'
   - icon: twitter
     icon_pack: fab
-    link: https://twitter.com/GeorgeCushen
+    link: https://twitter.com/garfjeld
   - icon: github
     icon_pack: fab
-    link: https://github.com/gcushen
+    link: https://github.com/RiksenHand
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ''
