@@ -13,7 +13,6 @@ title: Kontakt oss
 subtitle:
 
 content:
-  # Contact (edit or remove options as required)
   email: test@example.org
   phone: Inntaktskontoret 23 07 60 24
   phone: Sentralbord 91 50 27 70
