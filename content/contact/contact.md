@@ -14,8 +14,8 @@ content:
   # Contact (edit or remove options as required)
   email: hand@riksen.no
   contact_links:
-        - icon: building-solid
-          icon_pack: custom
+        - icon: phone
+          icon_pack: fas
           name: Ring Inntaktskontoret
           link: 'tel:22 33 44 55'
   # Automatically link email and phone or display as text?
