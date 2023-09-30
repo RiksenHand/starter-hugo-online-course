@@ -1,5 +1,5 @@
 ---
-title: Python basics
+title: Dupuytrens basics
 date: '2021-01-01'
 type: book
 weight: 20
