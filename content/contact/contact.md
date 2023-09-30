@@ -15,7 +15,15 @@ content:
   email: hand@riksen.no
   phone: Inntaktskontoret 12 34 56 78
   phone: Sengeposten 22 33 44 55
-
+  contact_links:
+        - icon: building
+          icon_pack: fab
+          name: Ring Inntaktskontoret
+          link: 'tel:22 33 44 55'
+        - icon: bed-pulse
+          icon_pack: fab
+          name: Ring Sengeposten 
+          link: 'tel:12345678'
   # Automatically link email and phone or display as text?
   autolink: true
 
