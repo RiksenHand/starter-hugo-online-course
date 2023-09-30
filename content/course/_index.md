@@ -1,5 +1,5 @@
 ---
-title: 📚 Courses
+title: 🤲 Informasjon til pasienter
 type: page
 tags:
   - preface
@@ -11,4 +11,4 @@ banner:
   image: ''
 ---
 
-Explore our courses below and expand your knowledge!
+Les mer om dine helsetilstander og behandlingsalternativer her!
