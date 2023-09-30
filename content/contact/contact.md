@@ -18,6 +18,10 @@ content:
           icon_pack: fas
           name: Ring Inntaktskontoret
           link: 'tel:22 33 44 55'
+        - icon: phone
+          icon_pack: fas
+          name: Ring Sengeposten 
+          link: 'tel:12345678'
   # Automatically link email and phone or display as text?
   autolink: true
 
