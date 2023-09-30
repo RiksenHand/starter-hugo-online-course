@@ -1,7 +1,7 @@
 ---
-title: 📊 Learn Data Science
-linkTitle: Data Science
-summary: An example of using Wowchemy's Book layout for publishing online courses.
+title: 📊 Om Dupuytrens
+linkTitle: Dupuytrens
+summary: Test info.
 date: '2021-01-24'
 type: book
 tags:
