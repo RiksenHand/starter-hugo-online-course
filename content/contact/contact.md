@@ -22,7 +22,7 @@ content:
         city: Oslo
         postcode: '0372'
         country: Norge
-        country_code: NO
+        country_code: no
       directions: Enter Building 1 and take the stairs to Office 200 on Floor 2
       office_hours:
         - 'mandag - fredag 09.30 - 11.00'
