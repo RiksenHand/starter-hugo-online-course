@@ -15,6 +15,6 @@ feature:
     description: og her...
   - icon: dumbbell
     icon_pack: fas
-    name: Math & Trening
+    name: Trening
     description: også her
 ---
