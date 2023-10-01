@@ -26,7 +26,5 @@ advanced:
 
 <br>
 
-Published with the [Wowchemy Website Builder](https://wowchemy.com/) for Hugo.
-
 Her kan du lese mer om diverse tilstander som henvises til vår seksjon, hvordan de kan behandles, og hva du som pasient kan forvente før og etter operasjonen.
 
