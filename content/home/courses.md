@@ -2,7 +2,7 @@
 widget: portfolio
 headless: true
 weight: 30
-title: Explore top courses
+title: Informasjon til pasienter
 subtitle:
 content:
   filters:
@@ -16,11 +16,11 @@ content:
   filter_default: 0
 
   filter_button:
-    - name: All Courses
+    - name: All tilstander
       tag: '*'
-    - name: Previous
+    - name: Elektiv
       tag: previous
-    - name: Current
+    - name: Skader
       tag: current
 design:
   columns: '1'
