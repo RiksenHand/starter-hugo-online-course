@@ -1,7 +1,7 @@
 ---
-title: Dupuytrens
+title: 🤙 Dupuytrens
 linkTitle: Dupuytrens
-summary: Har du Dupuytrens? Las oss slå Dupuytrens: for alltid, sammen!
+summary: Har du Dupuytrens? Las oss slå Dupuytrens, for alltid, sammen!
 date: '2023-10-01'
 type: book
 tags:
