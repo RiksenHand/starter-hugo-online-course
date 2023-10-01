@@ -1,8 +1,8 @@
 ---
-title: 📊 Om Dupuytrens
+title: 🤙 Dupuytrens
 linkTitle: Dupuytrens
-summary: Test info.
-date: '2021-01-24'
+summary: Har du Dupuytrens? Las oss slå Dupuytrens: for alltid, sammen!
+date: '2023-10-01'
 type: book
 tags:
   - current
@@ -12,32 +12,35 @@ tags:
 
 {{< toc hide_on="xl" >}}
 
-## What you will learn
+##  Her får du informasjon om
 
-- Fundamental {{<hl>}}Python programming skills{{</hl>}}
-- {{<hl>}}Statistical concepts{{</hl>}} and how to apply them in practice
-- Gain experience with the {{<hl>}}Scikit{{</hl>}}, including data visualization with {{<hl>}}Plotly{{</hl>}} and data wrangling with {{<hl>}}Pandas{{</hl>}}
+- Hva Dupuytrens er
+- Hvordan det behandles
+- Post-operativ utvinning 
+- Trening øvelser
 
-## Program overview
+## Hvordan du bruker denne siden
 
-The demand for skilled data science practitioners is rapidly growing. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi.
+Du kan bruke den før du først kommer til poliklinikken, mens du står på ventelisten, eller post+operativ. Du kan lese alle siden, eller bla gjennom de som gjelder for deg.
 
-## Courses in this program
+## Sider om
 
 {{< list_children >}}
 
-## Meet your instructor
+## Les mer om de som har skrevet dette
 
 {{< mention "admin" >}}
+{{< mention "mm" >}}
 
-## FAQs
+## Ofte spurte/stilte spørsmål 
 
-{{< spoiler text="Are there prerequisites?" >}}
-There are no prerequisites for the first course.
+{{< spoiler text="Kan vi få info i flere språk?" >}}
+Ja. Det er en knapp jeg har gjemt som kan bytte språk, men da må jeg skrive hele siden igjen på det andre språket og jeg ville også dra på sykkeltur i dag så hadde ikke tid. 
 {{< /spoiler >}}
 
-{{< spoiler text="How often do the courses run?" >}}
-Continuously, at your own pace.
+{{< spoiler text="Må jeg lese dette før vi først treffes på poliklinnikk?" >}}
+Nei, men vi håper det hjelper hvis du ønsker å lese mer.
 {{< /spoiler >}}
+
 
 {{< cta cta_text="Begin the course" cta_link="python" >}}
