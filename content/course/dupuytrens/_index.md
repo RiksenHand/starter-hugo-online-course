@@ -30,6 +30,7 @@ Du kan bruke den før du først kommer til poliklinikken, mens du står på vent
 ## Les mer om de som har skrevet dette
 
 {{< mention "admin" >}}
+
 {{< mention "mm" >}}
 
 ## Ofte spurte/stilte spørsmål 
@@ -39,8 +40,8 @@ Ja. Det er en knapp jeg har gjemt som kan bytte språk, men da må jeg skrive he
 {{< /spoiler >}}
 
 {{< spoiler text="Må jeg lese dette før vi først treffes på poliklinnikk?" >}}
-Nei, men vi håper det hjelper hvis du ønsker å lese mer.
+Nei, vi bare håper det hjelper hvis du ønsker å lese mer. Men det er en test
 {{< /spoiler >}}
 
 
-{{< cta cta_text="Begin the course" cta_link="python" >}}
+{{< cta cta_text="Les mer on Dupuytrens" cta_link="hvadupuy" >}}
