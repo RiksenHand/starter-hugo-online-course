@@ -1,16 +1,16 @@
 ---
 # Display name
-title: Rolf Riise
+title: Mesternes Mester
 
 # Username (this should match the folder name)
 authors:
-  - rolf
+  - mm
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position
-role: El Capitan
+role: Il Grande Capo
 
 # Organizations/Affiliations
 organizations:
@@ -21,9 +21,9 @@ organizations:
 bio: Like a boss.
 
 interests:
-  - Barn
-  - Hånd og mikro
-  - Rygg
+  - DIPS
+  - Biceps
+  - Rectus Abdominus
 
 Utdanning:
   courses:
@@ -47,10 +47,10 @@ social:
     link: 'mailto:test@example.org'
   - icon: twitter
     icon_pack: fab
-    link: https://twitter.com/rolf
+    link: https://twitter.com/MesternesMester
   - icon: github
     icon_pack: fab
-    link: https://github.com/rolf
+    link: https://github.com/mm
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ''
