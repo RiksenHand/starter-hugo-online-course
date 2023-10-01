@@ -2,19 +2,19 @@
 widget: featurette
 headless: true
 weight: 20
-title: Features
-subtitle: ✨ Teach _anything_ with
+title: Hva er dette?
+subtitle: Et sted å lese om
 feature:
-  - icon: chalkboard-teacher
+  - icon: hands
     icon_pack: fas
-    name: Slides
-    description:
-  - icon: video
+    name: Hender
+    description: Litt info her...
+  - icon: user-injured
     icon_pack: fas
-    name: Video
-    description:
-  - icon: code
+    name: Skader
+    description: og her...
+  - icon: dumbbell
     icon_pack: fas
-    name: Math & Code
-    description:
+    name: Math & Trening
+    description: også her
 ---
